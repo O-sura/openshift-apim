@@ -1,3 +1,7 @@
+**⚠️ Note:** This repository is no longer maintained. For Helm charts supporting the latest APIM versions—including OpenShift deployment guidelines, please visit [https://github.com/wso2/helm-apim](https://github.com/wso2/helm-apim).
+
+---
+
 # Openshift Resources for WSO2 API Management
 
 *This repository contains Openshift Resources for container-based deployments of WSO2 API Management.*
