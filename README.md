@@ -1,3 +1,7 @@
+**⚠️ Note:** This repository is no longer maintained for API-M versions 3.1.0 and onwards. For Helm charts for the latest versions, please visit [https://github.com/wso2/helm-apim](https://github.com/wso2/helm-apim).
+
+---
+
 # Openshift Resources for WSO2 API Management
 
 *This repository contains Openshift Resources for container-based deployments of WSO2 API Management.*
